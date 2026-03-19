@@ -1,4 +1,4 @@
-# CWRunner MPL Source Release
+# CW Runner QT MPL Source Release
 
 This repository contains the source files in my iOS application that are believed to be covered by the Mozilla Public License 2.0 (MPL-2.0).
 
@@ -30,7 +30,7 @@ Upstream project:
 
 This repository corresponds to the following app release:
 
-- App name: CWRunner
+- App name: CW Runner QT
 - Platform: iOS
 - App version: 1.0.0
 - Build number: 1
